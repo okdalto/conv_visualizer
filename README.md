@@ -1,6 +1,7 @@
 
 # Convolution Visualization Project
 
+![main image](https://github.com/okdalto/conv_visualizer/blob/main/assets/DSC00115.JPG?raw=true)
 
 ## Getting Started
 
