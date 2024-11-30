@@ -3,6 +3,8 @@
 
 ![main image](https://github.com/okdalto/conv_visualizer/blob/main/assets/DSC00115.JPG?raw=true)
 
+한국어로 된 제작기를 보고 싶다면 저의 [블로그](https://okdalto.github.io/%EC%9E%91%EC%97%85/%EC%BB%A8%EB%B3%BC%EB%A3%A8%EC%85%98-%EC%8B%9C%EA%B0%81%ED%99%94-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/)를 방문해주세요
+
 ## Getting Started
 
 This project is divided into two main parts:
